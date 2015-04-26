@@ -1,6 +1,11 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+# 1Setting the value of the matrix
+# 2 Getting the value of the matrix
+# 3 Setting the value of inverse of the matrix
+# 4 Getting the value of inverse of the matrix
+
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
